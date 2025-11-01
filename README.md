@@ -1,2 +1,6 @@
 # Hello, I'm Joshua
-<a href="https://linkedin.com"><img src="https://www.linkedin.com/in/joshuafinkelit" /></a>
+<a href="https://www.linkedin.com/in/joshuafinkelit"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+I am very passionate about cybersecuity and the never endering pursuit of knowledge!
