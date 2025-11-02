@@ -1,12 +1,12 @@
-# Hi, I'm Joshua
+# Hi, I'm Joshua Finkel
 <a href="https://www.linkedin.com/in/joshuafinkelit"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-I am very passionate about cybersecuity and the never endering pursuit of knowledge!
+Dedicated and detail-oriented IT professional pursuing a Bachelor’s in Cybersecurity and Information Assurance. Experienced in technical support, system administration, and network troubleshooting. Strong foundation in computer security principles, access control, and incident response. Skilled at managing systems, identifying vulnerabilities, and ensuring operational continuity.
 
 ## Objective
-I would like for this space to a place where I show off my projects and skills that I am learning about.
+This will be an archive of my journey as I take on new projects and expand my knowledge of cybersecurity!
 
 
 ## Certifications
